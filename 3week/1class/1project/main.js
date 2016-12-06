@@ -24,7 +24,11 @@ ADVANCED TRACK: 11-15
 //    The function should divide the number by two and
 //    then displayed into the HTML page.
 
-
+var divideByTwo = function(number) {
+  var halved = number / 2;
+  console.log(halved);
+}
+divideByTwo(6);
 
 // 3. Define a function called "greeting".
 //    It should accept two parameters within input fields, which will both be first names.
