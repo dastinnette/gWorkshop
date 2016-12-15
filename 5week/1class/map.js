@@ -15,8 +15,8 @@ console.log("The doubled numbers are", newNumbers);
 // }
 //
 // console.log("The doubled numbers are", newNumbers);
-
-
+//
+//
 // var numbers = [1, 2, 3, 4];
 //
 // var newNumbers = numbers.filter(function(number){
